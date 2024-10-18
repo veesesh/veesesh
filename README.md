@@ -1,5 +1,5 @@
 <h1 align="center">
-Hey there!👋 Glad to see you here, Myself Vee (He/Them)🙋‍♂️
+Hey there!👋 Glad to see you here, Myself Vee🙋‍♂️
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90"> </h1>
 
 I'm an engineering student and self-taught developer based in Hyderabad, India. I am passionate about web development, open source, and all things related to technology. I enjoy participating in hackathons, loves Python, as well as organizing events as community work.
