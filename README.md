@@ -37,11 +37,23 @@ I'm an engineering student and self-taught developer based in Hyderabad, India. 
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3D3D3D?style=for-the-badge&logo=supabase&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img alt="Node JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+
+
+
+
+
 
   <br>
   
 ### My Projects
-- 🔭 I’m currently working on building small projects based on what i have learnt so far
+
+- [Naash](https://devfolio.co/projects/yaash-yet-another-ai-shell-192b) : An AI-powered shell. [Watch Demo](https://www.youtube.com/watch?v=6xZ1Gxxiu1U)
+- [Scratch-Blogs](https://peerlist.io/sushantspeer/project/scratch-blogs) : Editor that generates blog based on diagrams and texts. [Watch Demo](https://youtu.be/bJMj_w8W5Dk)
+- [Snippet-Safe](https://devpost.com/software/snippetsafe) : An Easy tool designed to efficient store and organize code snippets. [Watch Demo](https://youtu.be/dL4a-QIyANA)
 - All projects » [Devpost](https://devpost.com/vee19)
 
 
